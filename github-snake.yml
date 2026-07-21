@@ -1,0 +1,41 @@
+name: Generate Contribution Snake
+
+on:
+  schedule:
+    # Runs once a day at midnight UTC
+    - cron: "0 0 * * *"
+  workflow_dispatch: {}
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  generate-snake:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate pink/purple themed snake SVGs
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: armaghanahmadshad
+          # supported options: palette [github|github-dark|github-light],
+          # color_snake, color_dots (5 comma-separated colors: 0-contribution -> highest)
+          outputs: |
+            dist/github-snake-dark.svg?palette=github-dark&color_snake=%23ff5fb8&color_dots=%233b1a55,%236b2fa0,%238a3fc0,%23a855f7,%23ff5fb8
+            dist/github-snake-light.svg?palette=github-light&color_snake=%23c026d3&color_dots=%23f0d9ff,%23e0b3fa,%23c084fc,%23a855f7,%237c3aed
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Push snake SVGs to the output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
