@@ -6,9 +6,9 @@
   <img alt="Armaghan Ahmad Shad banner" src="banner.svg?v=1" width="100%">
 </picture>
 
-<img src="https://komarev.com/ghpvc/?username=armaghanahmadshad&label=Profile+Views&color=a855f7&style=for-the-badge" alt="Profile views"/>
-<a href="mailto:armaghanahmadshad@gmail.com"><img src="https://img.shields.io/badge/Email-armaghanahmadshad%40gmail.com-ff5fb8?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://github.com/armaghanahmadshad"><img src="https://img.shields.io/badge/GitHub-armaghanahmadshad-a855f7?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<img src="https://komarev.com/ghpvc/?username=armaghanahmadshad&label=Profile+Views&color=3b82f6&style=for-the-badge" alt="Profile views"/>
+<a href="mailto:armaghanahmadshad@gmail.com"><img src="https://img.shields.io/badge/Email-armaghanahmadshad%40gmail.com-ff9248?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://github.com/armaghanahmadshad"><img src="https://img.shields.io/badge/GitHub-armaghanahmadshad-3b82f6?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 
 </div>
 
@@ -194,9 +194,9 @@ Technical Documentation · Public Speaking · Leadership · Team Collaboration �
 
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=armaghanahmadshad&theme=react-dark&hide_border=true&bg_color=150a24&color=d8b4fe&line=ff5fb8&point=a855f7">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=armaghanahmadshad&theme=default&hide_border=true&bg_color=fdf4ff&color=6b21a8&line=db2777&point=7c3aed">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=armaghanahmadshad&theme=react-dark&hide_border=true&bg_color=150a24&color=d8b4fe&line=ff5fb8&point=a855f7" alt="Armaghan's contribution activity graph" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=armaghanahmadshad&theme=react-dark&hide_border=true&bg_color=0a1120&color=a8c5f0&line=ff9248&point=3b82f6">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=armaghanahmadshad&theme=default&hide_border=true&bg_color=fff9f4&color=1e3a8a&line=c2410c&point=1d4ed8">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=armaghanahmadshad&theme=react-dark&hide_border=true&bg_color=0a1120&color=a8c5f0&line=ff9248&point=3b82f6" alt="Armaghan's contribution activity graph" width="100%">
 </picture>
 </div>
 
@@ -231,8 +231,8 @@ Technical Documentation · Public Speaking · Leadership · Team Collaboration �
 
 <div align="center">
 
-<a href="mailto:armaghanahmadshad@gmail.com"><img src="https://img.shields.io/badge/-Email-ff5fb8?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/armaghanahmadshad"><img src="https://img.shields.io/badge/-GitHub-a855f7?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="mailto:armaghanahmadshad@gmail.com"><img src="https://img.shields.io/badge/-Email-ff9248?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/armaghanahmadshad"><img src="https://img.shields.io/badge/-GitHub-3b82f6?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 </div>
 
